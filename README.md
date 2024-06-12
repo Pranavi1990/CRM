@@ -1,6 +1,7 @@
 # CRM
 Problem Statement:
 B2B sales pipeline data from a fictitious company that sells computer hardware, including information on accounts, products, sales teams, and sales opportunities are provided and we need to analyse the performance of each attribute of the sales pipeline like the products, sales teams, accounts etc.
+
 Objectives:
 1)How is each sales team performing compared to the rest?
 2)To know if any sales agents lagging behind?
